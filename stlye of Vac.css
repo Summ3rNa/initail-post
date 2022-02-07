@@ -1,0 +1,118 @@
+
+body {
+      background-color: #477785;
+
+}
+
+
+
+.Head {
+      color: white;
+      width: 100%;
+      height: 300px;
+      background-image: url("view.jpg");
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      
+
+
+}
+
+.Head h1 {
+      padding-top: 100px;
+      
+
+
+}
+
+.Intro {
+      color: white;
+      background-color: #6bb2d3;
+      text-align: center;
+      font-family: cursive;
+      
+
+}
+
+.Florence {
+      text-align: left;
+      margin-left: 25px;
+}
+.Florence h2{
+      color:#F76E11;
+}
+.Florence h4 {
+      color: #F1D00A;
+
+}
+.Florence ul li {
+      list-style:circle;
+      color: #FF9F45;
+}
+.Florence p {
+      color: #FFEDDB;
+      
+}
+
+.Beijing {
+      text-align: left;
+      margin-left: 25px;
+}
+.Beijing h2{
+      color:#F76E11;
+}
+.Beijing h4 {
+      color: #F1D00A;
+
+}
+.Beijing ul li {
+      list-style:circle;
+      color: #FF9F45
+}
+.Beijing p {
+      color: #FFEDDB
+      
+}
+.seoul {
+      text-align: left;
+      margin-left: 25px;
+}
+.seoul h2{
+      color:#F76E11;
+}
+.seoul h4 {
+      color: #F1D00A;
+
+}
+.seoul ul li {
+      list-style:circle;
+      color: #FF9F45;
+}
+.seoul p {
+      color: #FFEDDB;
+      
+}
+.more {
+      text-align: left;
+      margin-left: 25px;
+}
+.more ul li {
+      list-style:circle;
+      color: #FF6363;
+}
+.more h2 {
+      color: #EF2F88;
+}
+
+.footer {
+      text-align: center;
+      color: #cc4444;
+}
+.footer {
+      border-style:solid ;
+      color: #EA5C2B;
+}
